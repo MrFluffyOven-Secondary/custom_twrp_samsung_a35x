@@ -1,2 +1,10 @@
-# custom_twrp_samsung_a35x
-Work in progress | A356B | Phone Release firmware
+# Android device tree for samsung SM-A356B (a35x)
+
+```
+#
+# Copyright (C) 2024 The Android Open Source Project
+# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
