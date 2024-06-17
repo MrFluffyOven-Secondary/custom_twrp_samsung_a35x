@@ -1,4 +1,4 @@
-# Android device tree for samsung SM-A356B (a35x)
+# Android device tree for samsung SM-A356B (a35x) A356BXXU1AXBB
 
 ```
 #
